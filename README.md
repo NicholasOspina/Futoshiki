@@ -1,7 +1,7 @@
 # Futoshiki
 Futoshiki game solver utilizing Forward Checking, Back Propagation, and Constraint Satisfaction
 
-Given an input of a constraint satisfaction problem such as Futoshiki, find a solution for the board using either Forward Checking, BackPropagation or using a Constraint Satisfaction approach with Generalized Arc Constraint.
+Given an input of a constraint satisfaction problem such as Futoshiki, find a solution for the board using either Forward Checking or a Constraint Satisfaction approach with Generalized Arc Constraint.
 
 It was tested using the autotester.py and was able to successfully find the correct solution for a Futoshiki board and the N-Queens problem(as a baseline for constraint satisfaction).
 
